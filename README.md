@@ -10,7 +10,7 @@ occur.
 
 - ~~Goal 1: Read in genome from Genbank~~
 - ~~Goal 2: Find all CDS, and the sequence / translation.~~
-- Goal 3: Find the position of each SNP in CDS.
+- ~~Goal 3: Find the position of each SNP in CDS.~~
 - Goal 4: Build replace the SNP base and get new translation.
 - Goal 5: Identify what changes in amino acids occur if any.
 
